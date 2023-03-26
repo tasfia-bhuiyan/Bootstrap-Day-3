@@ -1,0 +1,16 @@
+.child{
+    border: 10px solid rgb(0, 0, 0);
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+.child1{
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
